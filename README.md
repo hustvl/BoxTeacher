@@ -31,7 +31,7 @@
 If you find BoxTeacher is useful in your research or applications, please consider giving us a star &#127775; and citing BoxTeacher by the following BibTeX entry.
 
 ```BibTeX
-@artical{Cheng2022BoxTeacher,
+@article{Cheng2022BoxTeacher,
   title     =   {BoxTeacher: Exploring High-Quality Pseudo Labels for Weakly Supervised Instance Segmentation},
   author    =   {Cheng, Tianheng and Wang, Xinggang and Chen, Shaoyu and Zhang, Qian and Liu, Wenyu},
   journal =   {arXiv preprint arXiv:2210.05174},

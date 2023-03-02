@@ -15,6 +15,7 @@
 
 ## Updates 
 
+* [2023-3-2] BoxTeacher has been accepted by CVPR 2023🎉!  We're preparing the code and models and going to open source in the lucky March!
 * [2022-10-12] Code & models are comming soon. 
 
 ## COCO Instance Segmentation
@@ -22,8 +23,8 @@
 | Model | Backbone | Schedule | AP | AP<sup>test</sup> | Weights |
 | :---- | :------: | :------: |:--:| :---------------: | :-----: |
 | BoxTeacher | R-50 | 1x | 32.6 | 32.9 | [ckpts]() |
-| BoxTeacher | R-50 | 3x | 34.2 | 34.4 | [ckpts]() |
-| BoxTeacher | R-101 | 3x | 35.2 | 35.4 | [ckpts]() |
+| BoxTeacher | R-50 | 3x | 34.8 | 35.0 | [ckpts]() |
+| BoxTeacher | R-101 | 3x | 36.3 | 36.5 | [ckpts]() |
 
 
 ## Citation

@@ -1,0 +1,12 @@
+_BASE_: "../Base-BoxTeacher.yaml"
+MODEL:
+  WEIGHTS: "../../pretrained_models/R-101.pkl"
+  RESNETS:
+    DEPTH: 101
+INPUT:
+  AUG_TYPE: "strongv2"
+  AUG_EXTRA: True
+SOLVER:
+  STEPS: (210000, 250000)
+  MAX_ITER: 270000
+OUTPUT_DIR: "output/boxteacher_r101_aug_3x"

@@ -1,0 +1,15 @@
+_BASE_: "../Base-BoxTeacher.yaml"
+MODEL:
+  WEIGHTS: "../../pretrained_models/R-101.pkl"
+  RESNETS:
+    DEPTH: 101
+    DEFORM_ON_PER_STAGE: [False, True, True, True]
+    STRIDE_IN_1X1: False
+    DEFORM_MODULATED: True
+INPUT:
+  AUG_TYPE: "strongv2"
+  AUG_EXTRA: True
+SOLVER:
+  STEPS: (210000, 250000)
+  MAX_ITER: 270000
+OUTPUT_DIR: "output/boxteacher_r101_DCN_aug_3x"

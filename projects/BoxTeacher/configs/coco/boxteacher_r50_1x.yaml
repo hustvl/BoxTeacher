@@ -1,0 +1,6 @@
+_BASE_: "../Base-BoxTeacher.yaml"
+MODEL:
+  WEIGHTS: "../../pretrained_models/MSRA-R-50.pkl"
+  RESNETS:
+    DEPTH: 50
+OUTPUT_DIR: "output/boxteacher_r50_1x"

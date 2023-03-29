@@ -2,7 +2,6 @@
 <h2>BoxTeacher</h2>
 <h4>Exploring High-Quality Pseudo Masks for Weakly Supervised Instance Segmentation</h4>
 <br>
-
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=PH8rJHYAAAAJ">Tianheng Cheng</a><sup><span>1</span></sup>, <a href="https://xinggangw.info/">Xinggang Wang</a><sup><span>1</span></sup>, <a href="https://scholar.google.com/citations?user=PIeNN2gAAAAJ&hl=zh-CN&oi=ao">Shaoyu Chen</a><sup><span>1</span></sup>, <a href="https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN">Qian Zhang</a><sup><span>2</span></sup>, <a href="http://eic.hust.edu.cn/professor/liuwenyu/"> Wenyu Liu</a><sup><span>1,&#8224;</span></sup>
 </br>
 

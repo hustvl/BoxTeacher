@@ -128,7 +128,7 @@ BoxTeacher is based on [detectron2](https://github.com/facebookresearch/detectro
 
 ## License
 
-SparseInst is released under the [MIT Licence](LICENCE).
+BoxTeacher is released under the [MIT Licence](LICENCE).
 
 
 ## Citation
